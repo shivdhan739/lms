@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+#login1{
+    height: 500px;
+    width: 500px;
+    margin-left: 500px;
+    background-color: rgb(128, 255, 0);
+}
+.S{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.T{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.U{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.V{
+    font-size: 20px;
+    margin-top: 25px;
+}

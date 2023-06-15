@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+#login2{
+    height: 500px;
+    width: 500px;
+    margin-left: 500px;
+    background-color: rgb(128, 255, 0);
+}
+.W{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.X{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.Y{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.Z{
+    font-size: 20px;
+    margin-top: 25px;
+}

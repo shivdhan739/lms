@@ -1,0 +1,29 @@
+body{
+    background-image:url( login.jpg) ;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#login{
+    height: 500px;
+    width: 500px;
+    margin-left: 500px;
+    background-color: gold;
+}
+.N{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.O{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.P{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.Q{
+    font-size: 20px;
+    margin-top: 25px;
+}

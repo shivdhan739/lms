@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+#login3{
+    height: 500px;
+    width: 500px;
+    margin-left: 500px;
+    background-color: rgb(128, 255, 0);
+}
+.m{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.n{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.o{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.p{
+    font-size: 20px;
+    margin-top: 25px;
+}

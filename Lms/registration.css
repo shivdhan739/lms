@@ -1,0 +1,41 @@
+body{
+    background-image: url(registration.jpg);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#registration{
+    height: 500px;
+    width: 500px;
+    margin-left: 500px;
+    background-color: chartreuse;
+}
+.H{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.I{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.J{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.K{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.R{
+    font-size: 30px;
+    margin-top: 25px;
+}
+.L{
+    font-size: 20px;
+    margin-top: 15px;
+}
+.M{
+    font-size:20px ;
+    margin-top: 15px;
+}
